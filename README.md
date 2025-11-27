@@ -1,5 +1,4 @@
-### Hi there 👋, меня зовут Артем
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+Артем
 
 23 года
 
