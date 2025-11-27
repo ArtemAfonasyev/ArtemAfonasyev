@@ -41,3 +41,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
+## 🚀 Мои ключевые проекты
+
+### 📊 Проекты по анализу данных
+- **[Анализ рынка недвижимости](https://github.com/ArtemAfonasyev/real-estate-analysis)** - Анализ цен на недвижимость с визуализацией и прогнозированием
+- **[EDA Telecom Dataset](https://github.com/ArtemAfonasyev/telecom-eda)** - Исследовательский анализ данных телеком-компании
+
+### 🕷️ Проекты по парсингу
+- **[E-commerce Parser](https://github.com/ArtemAfonasyev/ecommerce-parser)** - Парсер товаров с маркетплейсов на Selenium
+- **[News Aggregator](https://github.com/ArtemAfonasyev/news-parser)** - Система сбора новостей с различных источников
+
+### 🌐 Веб-приложения
+- **[Data Dashboard](https://github.com/ArtemAfonasyev/data-dashboard)** - Дашборд для визуализации данных на Flask
