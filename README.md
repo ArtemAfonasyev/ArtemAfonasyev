@@ -1,21 +1,47 @@
-Артем
+<h1 align="center">Привет всем 👋, меня зовут Артем</h1>
+<h3 align="center">Python-разработчик и аналитик данных из Екатеринбурга</h3>
 
-23 года
+<p align="center">
+  <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="Banner">
+</p>
 
-Специализация: Анализ данных, Парсинг
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-Образование: Уральский Федеральный Университет (Информационная безопасность) 
+---
 
-Город: Екатеринбург 
+### 📖 Немного обо мне
 
-Skills: Python | PostgreSQL | Selenium | Flask 
+*   🎓 Выпускник УрФУ, специальность "Информационная безопасность".
+*   🔍 Основные интересы: **Анализ данных**, **Парсинг**, **Автоматизация**.
+*   📚 В постоянном поиске новых знаний и интересных задач.
+*   💬 Спрашивайте меня о **Python**, **Selenium**, **PostgreSQL**.
 
+### 📊 Статистика GitHub
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ArtemAfonasyev)  
+<p align="center">
+  <a href="https://github.com/ArtemAfonasyev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtemAfonasyev&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemAfonasyev&layout=compact&theme=radical&hide_border=true"/>
+  </a>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+### 📫 Как со мной связаться
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ArtemAfonasyev)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ArtemAfonasyev&show_icons=true)  
-
+<p align="center">
+  <a href="https://github.com/ArtemAfonasyev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Добавьте другие свои контакты -->
+  <a href="https://t.me/ваш_username" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ваш-профиль/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
