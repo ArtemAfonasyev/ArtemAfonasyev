@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋, меня зовут Артем
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**ArtemAfonasyev/ArtemAfonasyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+23 года
 
-Here are some ideas to get you started:
+Специализация: Анализ данных, Парсинг
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Образование: Уральский Федеральный Университет (Информационная безопасность) 
+
+Город: Екатеринбург 
+
+Skills: Python | PostgreSQL | Selenium | Flask 
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ArtemAfonasyev)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ArtemAfonasyev)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ArtemAfonasyev&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/ArtemAfonasyev/contributions?format=svg&private=false)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/ArtemAfonasyev)  
+
