@@ -23,7 +23,6 @@
 
 <p align="center">
   <a href="https://github.com/ArtemAfonasyev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtemAfonasyev&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemAfonasyev&layout=compact&theme=radical&hide_border=true"/>
   </a>
 </p>
@@ -32,7 +31,7 @@
 
 ## 🚀 Ключевые проекты
 
-### 💼 EdTech проекты (Rocket Tech School)
+### 💼 EdTech проекты
 
 **📈 Аналитика и метрики:**
 - **[Teachers Bot](https://github.com/ArtemAfonasyev/Teachers-Bot)** - Discord бот для управления преподавателями + MySQL
@@ -57,13 +56,10 @@
   <a href="https://github.com/ArtemAfonasyev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/your_username" target="_blank">
+  <a href="https://web.telegram.org/k/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ekaterinburg.hh.ru/resume/your-resume" target="_blank">
+  <a href="https://ekaterinburg.hh.ru/resume/39d90e05ff0df4c27a0039ed1f544739564b43" target="_blank">
     <img src="https://img.shields.io/badge/HH.ru-FF0000?style=for-the-badge&logo=hh&logoColor=white" />
   </a>
 </p>
