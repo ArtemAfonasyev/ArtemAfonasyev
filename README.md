@@ -52,7 +52,7 @@ Rocket Tech School - [ссылка на hh.ru](https://ekaterinburg.hh.ru/employ
 - **[EDA Telecom Dataset](https://github.com/ArtemAfonasyev/telecom-eda)** - Исследовательский анализ данных телеком-компании
 
 ### 🕷️ Проекты по парсингу
-- **[E-commerce Parser](https://github.com/ArtemAfonasyev/ecommerce-parser)** - Парсер товаров с маркетплейсов на Selenium
+- **[Auth_2FA AlfaCrm](https://github.com/ArtemAfonasyev/Auth_2FA-AlfaCrm)** - Модуль автоматической двухфакторной аутентификации для AlfaCrm
 - **[News Aggregator](https://github.com/ArtemAfonasyev/news-parser)** - Система сбора новостей с различных источников
 
 ## 🌐 Личные проекты
