@@ -2,10 +2,6 @@
 <h3 align="center">Python-разработчик и аналитик данных из Екатеринбурга</h3>
 
 <p align="center">
-  <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="Banner">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
